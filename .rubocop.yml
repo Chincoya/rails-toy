@@ -5,6 +5,8 @@ AllCops:
     - "config/**/*"
     - "Guardfile"
     - "Rakefile"
+    - "node_modules/node-sass/src/libsass/contrib/libsass.spec"
+    - "node_modules/node-sass/src/libsass/extconf.rb"
   DisplayCopNames: true
 
 Metrics/LineLength:
