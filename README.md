@@ -1,4 +1,4 @@
-# Enumerable (Microverse Ruby project #2)
+# Getting your feet wet (Introduction to Rails project #1)
 Authors: Daniel Chincoya and Roberto Erik Nava Martínez
 
 # Original Project
