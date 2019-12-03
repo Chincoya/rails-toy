@@ -1,24 +1,10 @@
-# README
+# Enumerable (Microverse Ruby project #2)
+Authors: Daniel Chincoya and Roberto Erik Nava Martínez
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Original Project
+https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet
 
-Things you may want to cover:
+For this project we are required to do assignment number 4 of the above link.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Details
+This Project involves getting a working first application for Rails. 
