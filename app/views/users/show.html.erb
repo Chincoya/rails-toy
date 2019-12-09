@@ -12,7 +12,11 @@
 
 <p>
   <strong>Last Post:</strong>
-  <%= @user.microposts.first.content %>
+  <% if @user.microposts.first == nil %>
+      <span>No posts</span>
+    <%else %>
+      <%= @user.microposts.first.content %>
+    <% end %>
 </p>
 
 <%= link_to 'Edit', edit_user_path(@user) %> |
